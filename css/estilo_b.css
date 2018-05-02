@@ -1,0 +1,17 @@
+.box_b{
+	width: 120px;
+	height: 150px;
+	border-bottom:  #CFF09E;
+	background-color: #A8DBA8;
+	font-family: tahoma;
+	font-size: 28px;
+	color: #0B486B;
+	padding:24px;
+	margin: 16 8;
+
+
+}
+.ma_b{
+	text-align: left;
+	display: flex;
+}

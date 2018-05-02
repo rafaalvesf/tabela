@@ -1,0 +1,15 @@
+.ma_a{
+	text-align: center;
+}
+.box{
+	margin: 0 auto;
+	font-family: tahoma;
+	font-size: 32px;
+	color: #00A8C6;
+	background-color: #F9F2E7;
+	width: 100px;
+	height: 100px;
+	border-left: 5px;
+	border-color: #40C0CB;
+	padding-top: 10px;
+}
